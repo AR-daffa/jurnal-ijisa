@@ -1,0 +1,13 @@
+model,fase,topik_id,total_dok,growth_rate,kata_kunci,rekomendasi
+LDA,Maturity,4,245,-0.188,"system, information, analysis, implementation, review, satisfaction, literature,",Konsolidasi & integrasikan ke kurikulum
+LDA,Declining,1,303,-0.538,"system, information, design, development, web, management, analysis, jakarta, ap","Evaluasi relevansi, pertimbangkan pivot topik"
+LDA,Declining,3,261,-0.7,"user, application, analysis, model, use, service, technology, acceptance, digita","Evaluasi relevansi, pertimbangkan pivot topik"
+LDA,Declining,2,175,-0.684,"system, decision, support, usability, process, data, management, evaluation, ind","Evaluasi relevansi, pertimbangkan pivot topik"
+BERTopic,Growth,3,109,0.667,"pt, sales, supply, marketing, goods, production, business, relationship, custome",Perkuat dengan hibah & dorong publikasi
+BERTopic,Growth,10,57,1.6,"governance, security, ethical, ethics, food, information technology, framework, ",Perkuat dengan hibah & dorong publikasi
+BERTopic,Maturity,8,58,-0.143,"sharia, halal, financial, islamic, sharia banking, banking, banks, indonesia, co",Konsolidasi & integrasikan ke kurikulum
+BERTopic,Maturity,9,54,0.0,"spatial, distribution, modeling language, unified modeling, uml, web, unified, c",Konsolidasi & integrasikan ke kurikulum
+BERTopic,Maturity,7,52,0.0,"decision, decision support, employee, support, fuzzy, process, waste, hierarchy,",Konsolidasi & integrasikan ke kurikulum
+BERTopic,Declining,1,239,-0.636,"knowledge management, knowledge, islamic, learning, management, design, developm","Evaluasi relevansi, pertimbangkan pivot topik"
+BERTopic,Declining,2,118,-0.688,"acceptance, intention, user acceptance, utaut, model, extended, service, use, th","Evaluasi relevansi, pertimbangkan pivot topik"
+BERTopic,Declining,4,103,-0.789,"usability, satisfaction, user, user satisfaction, end user, end, computing satis","Evaluasi relevansi, pertimbangkan pivot topik"

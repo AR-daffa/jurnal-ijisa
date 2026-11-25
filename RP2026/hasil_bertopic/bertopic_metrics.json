@@ -1,0 +1,9 @@
+{
+  "model": "BERTopic",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "n_topics": 10,
+  "n_outliers": 1,
+  "outlier_pct": 0.09,
+  "topic_diversity": 0.99,
+  "top_n_words": 15
+}

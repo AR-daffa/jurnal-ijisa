@@ -1,0 +1,11 @@
+Metrik,LDA,BERTopic
+Jumlah Topik,4,10
+"Topic Coherence (Cv, Fair)",0.2781,0.4376
+Topic Diversity,0.7000,0.9900
+Dokumen Terklasifikasi,1142 (100%),1140 (99.9%)
+Dokumen Outlier (%),0% (semua terklasifikasi),0.1%
+Pendekatan Representasi,Bag-of-Words (BoW),Transformer Embeddings
+Penanganan Teks Pendek,Terbatas (sparse data),Baik (kontekstual)
+Interpretabilitas Topik,Tinggi (statistik),Sedang (perlu interpretasi)
+Kecepatan Training,Cepat,Lebih lambat
+Kebutuhan GPU,Tidak,Opsional (CPU bisa)

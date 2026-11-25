@@ -1,0 +1,11 @@
+bertopic_topic,total_docs,avg_per_year,growth_rate,first_year,topic_age,phase,kata_kunci
+1,239,14.1,-0.636,2010,16,Declining,"knowledge management, knowledge, islamic, learning, management, design, development, school, education, analysis design"
+2,118,9.1,-0.688,2013,13,Declining,"acceptance, intention, user acceptance, utaut, model, extended, service, use, theory, influence"
+3,109,6.4,0.667,2010,16,Growth,"pt, sales, supply, marketing, goods, production, business, relationship, customer, control"
+4,103,7.4,-0.789,2011,15,Declining,"usability, satisfaction, user, user satisfaction, end user, end, computing satisfaction, user computing, user experience, experience"
+5,102,6.4,-0.8,2011,15,Declining,"classification, indonesian, algorithm, news, means, quran, public, translation, neural, reviews"
+6,90,5.6,-0.556,2010,16,Declining,"strategic, project, review, literature review, planning, systematic, strategy, iot, literature, success"
+8,58,4.8,-0.143,2012,14,Maturity,"sharia, halal, financial, islamic, sharia banking, banking, banks, indonesia, covid, covid 19"
+10,57,4.1,1.6,2011,15,Growth,"governance, security, ethical, ethics, food, information technology, framework, vulnerabilities, information security, professional"
+9,54,3.6,0.0,2010,16,Maturity,"spatial, distribution, modeling language, unified modeling, uml, web, unified, city, modeling, language"
+7,52,3.1,0.0,2010,16,Maturity,"decision, decision support, employee, support, fuzzy, process, waste, hierarchy, hierarchy process, analytical hierarchy"
